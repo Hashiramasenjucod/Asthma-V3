@@ -1,0 +1,14 @@
+{
+  "name": "ASTHMA MB",
+  "max_quantity_per_request": 1,
+  "medicines": [
+    {
+      "name": "Asthavent 200",
+      "code": "AST_1"
+    },
+    {
+      "name": "Asthavent 300",
+      "code": "AST_2"
+    }
+  ]
+}
